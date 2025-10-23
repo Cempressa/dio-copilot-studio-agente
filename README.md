@@ -35,6 +35,8 @@ Configure o comportamento do agente com as seguintes instruções:
 
 Após preencher, clique em **Criar** para finalizar a configuração inicial.
 
+**{Imagem](agente_criado.png)**
+
 ---
 
 ### 3. Criar e customizar frases de gatilho
