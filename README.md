@@ -13,7 +13,7 @@ Este projeto tem como objetivo criar um agente conversacional personalizado cham
 
 Acesse o [Microsoft Copilot Studio](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/) e inicie um projeto em branco.
 
-📷 **[Imagem:](agente_Dio_modelo_em_branco.png)**  
+📷 **[Imagem](agente_Dio_modelo_em_branco.png)**  
 📝 **Descrição:** Agente responsável por buscar conteúdos de Copilot Studio dentro da documentação oficial da Microsoft, sendo que toda resposta dele será como o “Agente DIO”.
 
 ---
@@ -22,7 +22,7 @@ Acesse o [Microsoft Copilot Studio](https://learn.microsoft.com/pt-br/microsoft-
 
 Configure o comportamento do agente com as seguintes instruções:
 
-📷 **Imagem: Inserir_instrucoes_agente.png**
+📷 **{Imagem](Inserir_instrucoes_agente.png)**
 
 🗒️ **Instruções:**
 
@@ -41,7 +41,7 @@ Após preencher, clique em **Criar** para finalizar a configuração inicial.
 
 Configure frases de ativação para melhorar a precisão das respostas e direcionar o fluxo de conversa.
 
-📷 **Imagem: Custormizar_criar.png**
+📷 **[Imagem](Custormizar_criar.png)**
 
 ---
 
@@ -49,7 +49,7 @@ Configure frases de ativação para melhorar a precisão das respostas e direcio
 
 Adicione uma mensagem de latência ou erro para situações em que o agente não encontra resposta na documentação.
 
-📷 **Imagem: Personalizar_msg_erro.png**
+📷 **[Imagem](Personalizar_msg_erro.png)**
 
 💬 Exemplo de mensagem:  
 _"Estamos processando esta mensagem. Responderemos assim que possível. Obrigado pela paciência."_
@@ -60,7 +60,7 @@ _"Estamos processando esta mensagem. Responderemos assim que possível. Obrigado
 
 Defina o nível de moderação e controle da qualidade das respostas geradas pelo agente.
 
-📷 **Imagem: qualidade_respostas.png**
+📷 **[Imagem](qualidade_respostas.png)**
 
 🔧 Recomendações:
 - Moderação de conteúdo: **Alta**
