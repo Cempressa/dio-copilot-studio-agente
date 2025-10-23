@@ -13,7 +13,7 @@ Este projeto tem como objetivo criar um agente conversacional personalizado cham
 
 Acesse o [Microsoft Copilot Studio](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/) e inicie um projeto em branco.
 
-📷 **Imagem: agente_Dio_modelo_em_branco.png**  
+📷 **[Imagem:](agente_Dio_modelo_em_branco.png)**  
 📝 **Descrição:** Agente responsável por buscar conteúdos de Copilot Studio dentro da documentação oficial da Microsoft, sendo que toda resposta dele será como o “Agente DIO”.
 
 ---
