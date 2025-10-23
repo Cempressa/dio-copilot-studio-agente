@@ -1,14 +1,3 @@
-# dio-copilot-studio-agente
-Agente da DIO: responde com base na documentação oficial do Microsoft Learn
-
----
-
-## 📁 Nome do Repositório
-
-**agente-da-dio-copilot-studio**
-
----
-
 ## 🧠 README.md
 
 ```markdown
@@ -84,16 +73,3 @@ Defina o nível de moderação e controle da qualidade das respostas geradas pel
 
 - [Microsoft Copilot Studio – Documentação Oficial](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/)
 
----
-
-
-
-- Crie um repositório no GitHub com este README e os arquivos de configuração.
-- Envie o link do repositório na plataforma de entrega do desafio.
-
----
-
-**Bons estudos! 😊**
-```
-
-Se quiser, posso te ajudar a criar a estrutura de pastas e arquivos para organizar esse repositório ainda melhor. É só dizer!
